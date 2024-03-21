@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/6e25a9cee7f4f4e49aaf8.jpg" alt="The Movie Provider Bot Logo">
+  <img src="https://telegra.ph/file/6e25a9cee7f4f4e49aaf8.jpg" alt="Chirs Evans Bot Logo">
 </p>
 <h1 align="center">
   <a href="https://telegram.me/TheMovieProviderBot">THE MOVIE PROVIDER BOT</a>
