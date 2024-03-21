@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/6e25a9cee7f4f4e49aaf8.jpg" alt="Chirs Evans Bot Logo">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/TheMovieProviderBot">Chirs Evans Provider Bot</a>
+  <a href="https://telegram.me/ChirsEvansProviderBot">Chirs Evans Provider Bot</a>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
