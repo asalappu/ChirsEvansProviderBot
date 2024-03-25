@@ -29,8 +29,8 @@ SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://telegra.ph/file/734170f40b8
 CODE = (environ.get('CODE', 'https://telegra.ph/file/72f425007b22d28bd935e.jpg'))
 
 #stream link shortner
-STREAM_SITE = (environ.get('STREAM_SITE', 'ziplinker.net'))
-STREAM_API = (environ.get('STREAM_API', '9a472f2fcc7e00d710762e27ea2c9a19179a4b74'))
+STREAM_SITE = (environ.get('STREAM_SITE', 'krownlinks.com'))
+STREAM_API = (environ.get('STREAM_API', '91dce10e6367a6d5687f20e0d44b33ea562b564e'))
 STREAMHTO = (environ.get('STREAMHTO', 'https://t.me/HowToOpenLinkHP/69'))
 
 # Admins, Channels & Users
